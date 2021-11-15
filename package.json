@@ -3,6 +3,25 @@
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
+    "init": "^0.1.2",
     "nodemon": "^2.0.14"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "weather-journal-app",
+  "description": "This project denpendens on HTML, CSS, JS and node.js .",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esraa-ismail/Weather-Journal-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esraa-ismail/Weather-Journal-App/issues"
+  },
+  "homepage": "https://github.com/esraa-ismail/Weather-Journal-App#readme"
 }
