@@ -1,10 +1,9 @@
 # Weather-Journal App Project
 
 ## Overview
-This project requires you to create an asynchronous web app that uses Web API and user data to dynamically update the UI. 
+This project denpendens on HTML, CSS, JS and node.js . 
 
 ## Instructions
-This will require modifying the `server.js` file and the `website/app.js` file. You can see `index.html` for element references, and once you are finished with the project steps, you can use `style.css` to style your application to customized perfection.
-
+To use this project you need to write the zip cod of your country and your feeling. when you do that you will get the temprture for your country in this momment.
 ## Extras
-If you are interested in testing your code as you go, you can use `tests.js` as a template for writing and running some basic tests for your code.
+in the firat i set up then node.js enviroment in server.js file , then i used an asynchrounas function to set up the clinet side in app.js file.
